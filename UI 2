@@ -1,0 +1,24 @@
+In this project, the redesigned Moodle homepage is a Jugaad solution because it does not require changes to the backend or additional hardware. It only reorganizes the user interface by placing the most important features—such as Login, My Courses, Important Announcements, and Upcoming Events—at the top while moving old news to an archive. This simple redesign makes the system easier to use, saves students' time, and improves the overall user experience at a very low cost.
+
+Description
+The Smart Moodle Dashboard is a low-cost UI/UX redesign that prioritizes the most frequently used student features. Instead of displaying old site announcements first, it places the Login section, My Courses, Important Announcements, Upcoming Events, and Quick Access options at the top. This improves navigation and helps students access essential information faster without modifying the existing Moodle backend.
+Benefits
+Faster access to important features.
+Reduces time spent searching for courses and announcements.
+Improves user experience through better content organization.
+Minimizes confusion caused by outdated news.
+Increases productivity for students and faculty.
+Materials Used
+A4 sheet (for paper prototype)
+Pencil
+Eraser
+Scale
+Black and colored sketch pens
+UI/UX design principles
+Moodle interface as the reference
+Limitations
+It is only a paper prototype and not a functional application.
+Requires implementation by the Moodle development team.
+User feedback is needed before final deployment.
+Existing users may need time to adapt to the new layout.
+Does not improve backend performance or server speed.
